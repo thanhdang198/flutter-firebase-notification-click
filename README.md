@@ -101,4 +101,4 @@ class FirebaseService {
 ``_loginBloc.add(UpdateNotificationData(message?.data));``
 ###### And now, handle it with BlocListener.
 ###### This guide was modify from SoKim post
-[Medium post here]("https://medium.com/firebase-developers/flutter-fcm-how-to-navigate-to-a-particular-screen-after-tapping-on-push-notification-8cb5d5111ee6")
+[Medium post here](https://medium.com/firebase-developers/flutter-fcm-how-to-navigate-to-a-particular-screen-after-tapping-on-push-notification-8cb5d5111ee6 "SoKim post")
